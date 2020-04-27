@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab24\Lab24\bin\Debug\netcoreapp3.1\Lab24.exe
+C:\Users\User\source\repos\Lab24\Lab24\bin\Debug\netcoreapp3.1\Lab24.deps.json
+C:\Users\User\source\repos\Lab24\Lab24\bin\Debug\netcoreapp3.1\Lab24.runtimeconfig.json
+C:\Users\User\source\repos\Lab24\Lab24\bin\Debug\netcoreapp3.1\Lab24.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab24\Lab24\bin\Debug\netcoreapp3.1\Lab24.dll
+C:\Users\User\source\repos\Lab24\Lab24\bin\Debug\netcoreapp3.1\Lab24.pdb
+C:\Users\User\source\repos\Lab24\Lab24\obj\Debug\netcoreapp3.1\Lab24.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab24\Lab24\obj\Debug\netcoreapp3.1\Lab24.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab24\Lab24\obj\Debug\netcoreapp3.1\Lab24.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab24\Lab24\obj\Debug\netcoreapp3.1\Lab24.dll
+C:\Users\User\source\repos\Lab24\Lab24\obj\Debug\netcoreapp3.1\Lab24.pdb
